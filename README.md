@@ -11,3 +11,4 @@ npm i
 
 
 check also on gitignore file build and remove it to deploy the app
+the url is : https://check-serverr.herokuapp.com/
